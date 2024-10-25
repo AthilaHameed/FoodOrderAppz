@@ -129,11 +129,13 @@ class _HomePageState extends State<HomePage> {
                   color: Colors.black,
                 ),
               ),
+
             ),
             Padding(
               padding: EdgeInsets.all(16.0),
               child: Image.asset('assets/promo_banner.jpg', width: double.infinity),
             ),
+
             Container(
               color: Colors.orange[100],
 
